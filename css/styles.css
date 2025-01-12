@@ -1,0 +1,8 @@
+.container {
+    background-color: beige;
+}
+
+.card-img-top {
+    height: 550px;
+    object-fit: cover;
+}
